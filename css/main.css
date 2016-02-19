@@ -1,0 +1,193 @@
+/* comienza css de header */
+h1{
+	text-align: center;
+	margin-top: 50px;
+
+}
+ul{
+	text-align: center;
+
+}
+li{
+	list-style-type: none;
+	display: inline-block;
+	margin-right: 40px;
+	margin-top: 100px;
+	padding: 5px;
+}
+a{
+	text-decoration: none;
+	color: gray;
+	margin-left: 8px;
+}
+.foto1{
+	background-image: url(../img/dance_1.jpg);
+	height: 500px;
+    background-size: 100% 100%;
+}
+	
+.frente {
+	margin-right:680px;
+	margin-top: 60px;
+	color: white;
+}
+h2{
+	margin-top: 80px;
+	margin-right: 80px;
+	margin-left: 2px;
+	font-size: 70px;
+	color: white;
+
+}
+.azul{
+	background-color: #000080;
+	margin-left: 30px;
+	margin-top: 60px;
+	width: 90px;
+	height: 30px;
+	color: white;
+}
+.segundo{
+	margin-left: 10px;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 70px;
+	color:#b3b3ff;
+
+}
+/*section2*/
+.backgraund1{
+	background-image: url("../img/textura_2.jpg");
+	width: 100%;
+	height: 400px;
+}
+.enmedio{
+	margin-left: 360px;
+	margin-bottom: 60px;
+	width: 150px;
+	height: 150px;
+}
+.oferta{
+	height: 60px;
+	width: 250px;
+	background-color:  #000080;
+	color: white;
+	margin-top: -90px;
+	margin-left:-190px;
+	font-size: 15px;
+}
+.inst{
+	width: 650px;
+	height: 400px;
+	border: 1px solid black;
+}
+.prof{
+	height: 400px;
+	width: 650px;
+	border: 1px solid black;
+
+}
+.divazul{
+	border: 1px solid black;
+	height: 80px;
+	width: 400px;
+	background-color:#000080;
+	position: absolute; 
+	left: 470px;
+	margin-top: 320px;
+	color: white;
+	text-align:center;
+	padding: 20px;
+	font-size: 25px;
+	
+}
+.frase2{
+	margin-top: 100px;
+	font-size: 40px;
+	color: #b3b3ff;
+	text-align: center;
+}
+/*cuadroazul*/
+.cuadroazul{
+	width: 100%;
+	height: 500px;
+	background-color: #000080;
+}
+.frase3{
+	margin-top: 80px;
+	text-align: left;
+	color: white;
+}
+h3{
+	margin-top: 80px;
+	color: white;
+}
+.direccion{
+	text-align: left;
+	color: white;
+	margin-top: 55px;
+}
+iframe{
+	margin-top: 30px;
+	margin-left: 70px;
+}
+/*zapatillas*/
+.contacto{
+	font-size: 50px;
+	color: #000080;
+	margin-top: 20px;
+}
+.nombre{
+	border: 1px solid gray;
+	height: 50px;
+	width: 350px;
+	padding: 7px;
+	margin-top: 20px;
+	font-size: 15px;
+	color: gray;
+}
+.email{
+	border: 1px solid gray;
+	height: 50px;
+	width: 350px;
+	padding: 7px;
+	margin-top: 20px;
+	font-size: 15px;
+	color: gray;
+
+}
+.mensaje{
+	border: 1px solid gray;
+	height: 100px;
+	width: 350px;
+	padding: 7px;
+	margin-top: 20px;
+	font-size: 15px;
+	color: gray;
+}
+.enviar{
+	width: 350px;
+	height:50px;
+	text-align: center;
+	background-color: #000080;
+	margin-top: 25px;
+	color: white;
+	font-size: 20px;
+}
+.zapatilla{
+	margin-left:-170px;
+}
+/*final*/
+.blue{
+	height: 50px;
+	width: 100%;
+	background-color: #000080;
+	color: white;
+	padding: 15px;
+	padding-left: 20px;
+
+}
+
+
+
+
