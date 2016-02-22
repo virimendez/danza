@@ -1,1 +1,115 @@
-/* Inserta tu codigo aqui */
+/* comienza css de header */
+h1{
+	text-align: center;
+	margin-top: 50px;
+
+}
+ul{
+	text-align: center;
+
+}
+li{
+	list-style-type: none;
+	display: inline-block;
+	margin-right: 40px;
+	margin-top: 100px;
+	padding: 5px;
+}
+a{
+	text-decoration: none;
+	color: gray;
+	margin-left: 8px;
+}
+/*diferentes clases*/
+.ofertas{
+	margin-top: 30px;
+	text-align: center;
+	font-size: 30px;
+
+}
+.fotito{
+	width: 300px;
+	height: 330px;
+	padding-top: 9px;
+
+
+}
+.background2{
+	background-color: gray;
+	background-size: 100% 100%;
+
+
+}
+.recuadro{
+	color: white;
+	background-color:black; opacity: 0.5;
+	width: 300px;
+	height: 100px;
+	text-align: center;
+	margin-top: -100px;
+
+}
+/*zapatillas*/
+.contacto{
+	font-size: 50px;
+	color: #000080;
+	margin-top: 15px;
+}
+.nombre{
+	border: 1px solid gray;
+	height: 50px;
+	width: 350px;
+	padding: 7px;
+	margin-top: 20px;
+	font-size: 15px;
+	color: gray;
+}
+.email{
+	border: 1px solid gray;
+	height: 50px;
+	width: 350px;
+	padding: 7px;
+	margin-top: 20px;
+	font-size: 15px;
+	color: gray;
+
+}
+.mensaje{
+	border: 1px solid gray;
+	height: 100px;
+	width: 350px;
+	padding: 7px;
+	margin-top: 20px;
+	font-size: 15px;
+	color: gray;
+}
+.enviar{
+	width: 350px;
+	height:50px;
+	text-align: center;
+	background-color: #000080;
+	margin-top: 25px;
+	color: white;
+	font-size: 20px;
+}
+.zapatilla{
+	margin-left:-170px;
+}
+/*final*/
+.blue{
+	height: 50px;
+	width: 100%;
+	background-color: #000080;
+	color: white;
+	padding: 15px;
+	padding-left: 20px;
+
+}
+.zapatillas{
+	margin-top: 70px;
+}
+
+
+
+
+
